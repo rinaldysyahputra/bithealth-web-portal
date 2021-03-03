@@ -1,0 +1,11 @@
+# Before starting the service, please duplicate this file and rename the duplicated file to '.env'
+PORT=3000
+NODE_ENV=development
+SECRET=bithealth
+
+# Postgre
+DB_HOST=localhost
+DB_USERNAME=aldy
+DB_PASSWORD=postgres
+DB_DATABASE=bithealth-web-portal
+
